@@ -154,23 +154,21 @@ namespace InputNameSpace
 
             return flag;
         }
-        public string subString(int end)
+        public string subString(int index)
         {
-             int numOfSteps = end - Position;
-             int position2 = Position;
-             string subText = "";
-             Input x = this;
-
-           // if (hasMore())
-           // {
-           for (int i =0; i< numOfSteps; i++)
+             int numOfSteps = index - Position;
+             string subText =null;
+            int Position2 = Position;
+         
+           for (int i =0; i<numOfSteps; i++)
             {
-                x.position++;
-                subText += x.Character;
+               
+                subText += input[Position2];
+                Position2++;
             }
 
-           // }
-
+            // }
+           // Console.WriteLine("the position value {0}", Position);
             return subText;
         }
     }
@@ -191,11 +189,14 @@ namespace InputNameSpace
          //   Console.WriteLine(text.sha1Hash(text));
           //  Console.WriteLine(text.isValidSha1(text, text.sha1Hash(text)));
            // text.reset();
-            Console.WriteLine(text.Position);
-            Console.WriteLine(text.peek());
+          //  Console.WriteLine(text.Position);
+          //  Console.WriteLine(text.peek());
             //Console.WriteLine(text.back());
             // Console.WriteLine(text.jump(8));
-            Console.WriteLine(text.subString(5));
+
+
+           Console.WriteLine(text.subString(5));
+            Console.WriteLine(text.Position);
 
 
 
