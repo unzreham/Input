@@ -1,0 +1,13 @@
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.exe
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.deps.json
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.runtimeconfig.json
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.runtimeconfig.dev.json
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.dll
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\bin\Debug\netcoreapp3.1\InputNameSpace.pdb
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.csprojAssemblyReference.cache
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.AssemblyInfoInputs.cache
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.AssemblyInfo.cs
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.dll
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.pdb
+C:\Users\rhm30\source\repos\InputNameSpace\InputNameSpace\obj\Debug\netcoreapp3.1\InputNameSpace.genruntimeconfig.cache
